@@ -2,3 +2,9 @@
 <i class="fa-brands fa-facebook"></i>
 <i class="fa-brands fa-twitter"></i>
 <i class="fa-brands fa-linkedin"></i>
+<i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-bars"></i>
+
+
+
+google fonts
